@@ -1,12 +1,12 @@
 # 二维码的使用
 
 * [引用](#引用)
-* [参考地址](#参考地址)
 * [控件](#控件)
 * [QRCodeView接口](#qrcodeview接口)
 * [QRCodeView.Delegate](#qrcodeview.delegate)
 * [QRCodeDecoder](#qrcodedecoder)
 * [QRCodeEncoder](#qrcodeencoder)
+* [参考地址](#参考地址)
 
 
 ## 引用
@@ -47,6 +47,7 @@ xml中调用cn.bingoogolapple.qrcode.zxing.ZXingView
     app:qrcv_topOffset="90dp" />
 ```
 自定义属性说明：
+
 |属性                        |说明                                                     |默认值                        |
 | :------------------------: | :-----------------------------------------------------: | :--------------------------: |
 |qrcv_topOffset              |  扫描框距离 toolbar 底部的距离                          |90dp                          | 
