@@ -384,4 +384,6 @@ new AsyncTask<Void, Void, Bitmap>() {
 
 
 ## 参考地址
+以上是ZXing扫描的使用，关于一些细节和ZBar扫描的使用请参考下面地址
+
 [https://github.com/bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android "参考地址")
